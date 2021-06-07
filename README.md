@@ -7,3 +7,4 @@ The task is to apply the concepts learned so far: HTML, CSS, Visual Design, Acce
 This is part five of five. The project is to create a personal portfolio to showcase my work.
 
 You can see the live version here:
+https://alexissolanop.github.io/personal_portfolio/
