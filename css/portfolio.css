@@ -139,7 +139,7 @@ a {
 /* Hero Banner */
 
 .hero {
-  background: url('/./images/background.jpg');
+  background: url('././images/background.jpg');
   background-size: cover;
   background-position: center;
   height: 100vh;
